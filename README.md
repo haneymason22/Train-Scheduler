@@ -1,1 +1,1 @@
-# Train-Scheduler
+# Interactive Train Schedule app where arrival and departure data of various trains can be added.
