@@ -1,0 +1,43 @@
+.body {
+    background-color: turquoise;
+}
+
+.container{
+    background-color: violet;
+}
+
+.display-4 {
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.lead {
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.card-body {
+    background-color: blue;
+    color: white;
+}
+
+#head-row {
+    background-color: white;
+    font-weight: bold;
+    margin-top: 10px;
+}
+
+.form-group {
+    background-color: white;
+    border-style: solid;
+    margin-top: 10px;
+}
+
+#Name, #Time, #Destination, #Frequency {
+    font-weight: bold;
+    font-size: larger;
+}
+
+#newRow {
+    background-color: white;
+}
